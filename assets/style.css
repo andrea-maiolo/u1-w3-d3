@@ -1,0 +1,24 @@
+body {
+  margin: 1rem;
+  background-color: #fdfbd4;
+}
+
+form {
+  border: 1px solid black;
+  padding: 0.5rem;
+}
+
+.singleTask {
+  border: 2px solid blue;
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.paraCompleted {
+  text-decoration: line-through;
+}
+
+.divCompleted {
+  background-color: green;
+}
